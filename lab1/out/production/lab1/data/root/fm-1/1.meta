@@ -1,0 +1,15 @@
+{
+  file_name: xxx,
+  id: xxx,
+  block: BM1-b1,BM3-b5,
+  size: 100
+
+  block size: 32
+  logic block:
+    0: [ "bm-01",13 ][ "bm-02",82 ][ "bm-03",14 ]
+    1: [ "bm-05",31 ]
+    ...
+    6: [ "bm-1",89 ][ "bm-04",21 ]
+
+
+}

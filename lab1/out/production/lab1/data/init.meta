@@ -1,0 +1,7 @@
+{
+  metaBlockSize: 20
+  dataBlockSize: 20
+  fileManager: 1,2,3
+  blockManager: 1,2,3
+
+}

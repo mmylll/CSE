@@ -1,0 +1,4 @@
+size:256
+block size:512
+logic block:
+0:["bm-1",12] ["bm-2",12] ["bm-3",12] 
